@@ -1,16 +1,28 @@
-# bmi_calculator
+# 🧮 BMI Calculator
 
-A new Flutter project.
+A clean and interactive **BMI (Body Mass Index) Calculator** built using **Flutter**. This app helps users to quickly calculate their BMI and provides health suggestions based on the result.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Select gender (Male/Female)
+- Adjust height using a slider
+- Increase/decrease weight and age using custom buttons
+- View your BMI result along with a compliment and suggestion
+- Beautiful and responsive UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+<img src="screenshots/image1.png" width="300" alt="Home Screen">  
+<br>
+<img src="screenshots/image2.png" width="300" alt="Result Screen">
+
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/bmi_calculator.git
